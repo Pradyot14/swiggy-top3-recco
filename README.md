@@ -1,7 +1,7 @@
 swiggy-top3-recco
 ==============================
 
-This project will recommend three best food item on swiggy homepage..
+This project will recommend three best food item on swiggy homepage
 
 Project Organization
 ------------
